@@ -14,7 +14,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Hajjioui-MH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hajjioui-MH | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -41,8 +40,9 @@
 <br />
 <br />
 
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hajjioui-MH&show_icons=true&hide_border=true" />
 
-[gmail]: hajjioui.mh@gmail.com
+
 [linkedin]: https://www.linkedin.com/in/mohamed-hajjioui
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
