@@ -1,17 +1,17 @@
-### Hi there 👋
-<img src="https://github.com/Hajjioui-MH/Hajjioui-MH/blob/main/Readme%20banner.png" alt="" />
+### Hi there, I'm Mohamed Hajjioui 👋
 
-<!--
-**Hajjioui-MH/Hajjioui-MH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Hajjioui-MH/Hajjioui-MH/blob/main/Readme%20banner.png" alt="Mohamed Hajjioui" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Husband, Developer, and Blogger!!
+
+- 🌱 I'm currently learning deno js and working on an amazon clone app at the same time. 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to build apps and play guitar
+
+
+### Connect with me:
+
+[<img align="left" alt="Hajjioui-MH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][email]
