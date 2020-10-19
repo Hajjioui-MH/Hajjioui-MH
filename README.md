@@ -14,6 +14,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Hajjioui-MH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hajjioui-MH | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
 
 <br />
 
@@ -44,6 +45,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mohamed-hajjioui
+[quora]: https://www.quora.com/profile/Mohamed-Hajjioui
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
