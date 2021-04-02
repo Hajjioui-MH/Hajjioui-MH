@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning Gatsby and working on an amazon clone app at the same time.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to build apps and play guitar
+- ⚡ Fun fact: I love to build apps.
 
 
 ### Connect with me:
