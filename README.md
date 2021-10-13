@@ -1,14 +1,7 @@
 ### Hi there, I'm Mohamed Hajjioui 👋
 
-<img src="https://github.com/Hajjioui-MH/Hajjioui-MH/blob/main/Readme%20banner.png" alt="Mohamed Hajjioui" />
 
-
-## I'm a Developer, and Blogger!!
-
-- 🌱 I'm currently learning Gatsby and working on an amazon clone app at the same time.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to build apps.
+## I'm a Software Engineer!!
 
 
 ### Connect with me:
